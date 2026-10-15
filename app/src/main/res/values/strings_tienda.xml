@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nombre_tienda">Sport Zone SV</string>
+    <string name="titulo_crear_producto">Nuevo producto</string>
+    <string name="titulo_actualizar_producto">Modificar producto</string>
+    <string name="boton_actualizar">Actualizar</string>
+</resources>

@@ -1,0 +1,9 @@
+[
+  { "nombre": "Balón de fútbol No. 5", "descripcion": "Balón de fútbol cosido a máquina para cancha de grama", "precio": 18.50, "stock": 25, "categoria": "Balones" },
+  { "nombre": "Balón de baloncesto No. 7", "descripcion": "Balón de baloncesto de caucho para uso en cancha exterior", "precio": 22.00, "stock": 15, "categoria": "Balones" },
+  { "nombre": "Balón de voleibol de playa", "descripcion": "Balón de voleibol suave y resistente al agua y la arena", "precio": 16.75, "stock": 3, "categoria": "Balones" },
+  { "nombre": "Tenis para correr Runner X", "descripcion": "Tenis ligeros con amortiguación para correr en asfalto", "precio": 54.99, "stock": 12, "categoria": "Calzado" },
+  { "nombre": "Zapatillas de entrenamiento", "descripcion": "Zapatillas estables para pesas y entrenamiento funcional", "precio": 62.00, "stock": 4, "categoria": "Calzado" },
+  { "nombre": "Colchoneta de yoga 6 mm", "descripcion": "Colchoneta antideslizante de 6 mm para yoga y pilates", "precio": 14.99, "stock": 20, "categoria": "Accesorios fitness" },
+  { "nombre": "Cuerda para saltar ajustable", "descripcion": "Cuerda de velocidad con largo ajustable y mangos de espuma", "precio": 6.25, "stock": 2, "categoria": "Accesorios fitness" }
+]
